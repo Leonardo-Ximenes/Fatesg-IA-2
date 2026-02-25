@@ -11,17 +11,3 @@ A ideia aqui é manter um histórico do meu progresso técnico, facilitando o ac
 * **Instituição:** SENAI Fatesg
 * **Curso:** [Iteligência Artificial]
 * **Início:** [08/2025]
-
----
-
-## 🗂️ Estrutura de Pastas
-
-Para manter a organização, o repositório está dividido por disciplinas:
-
-```text
-📂 /
-├── 📁 Semestre-02/
-│   ├── 📁 Estrutura-de-Dados/
-│   └── 📁 Programacao-Orientada-Objetos/
-└── 📁 Projetos-Integradores/
-    └── 📁 PI-1/

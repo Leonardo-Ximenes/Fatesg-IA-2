@@ -1,6 +1,7 @@
 # Atividades de Business Intelligence com NumPy
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![BI](https://img.shields.io/badge/Business_Intelligence-0078D4?style=for-the-badge)
 ![IA](https://img.shields.io/badge/Inteligência_Artificial-FF9900?style=for-the-badge)
 ![SENAI Fatesg](https://img.shields.io/badge/Faculdade_SENAI_Fatesg-00519E?style=for-the-badge)
@@ -16,6 +17,7 @@ Este é o repositório de atividades e exercícios práticos da disciplina de **
 
 - [Python](https://www.python.org/)
 - [NumPy](https://numpy.org/)
+- [Jupyter Notebook](https://jupyter.org/)
 
 ## 📖 Objetivo
 
